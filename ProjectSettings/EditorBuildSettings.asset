@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cover.unity
+    guid: cddaedfb0d58cdb48a2dc7d589e27300
+  - enabled: 1
+    path: Assets/Scenes/Stage00.unity
+    guid: 8bd40efbacf6de248a96a2fe4d1215c9
+  - enabled: 1
+    path: Assets/Scenes/Stage01.unity
+    guid: 37d62c04040f99e4c906826bc6e2fa6d
+  - enabled: 1
+    path: Assets/Scenes/Stage02.unity
+    guid: cc1a439cde8090f4aaecc9b950a2903b
+  - enabled: 1
+    path: Assets/Scenes/Stage03.unity
+    guid: 598b7743134965445911efe8b823e2d0
+  - enabled: 1
+    path: Assets/Scenes/Stage04.unity
+    guid: 96f85991c7d80e04095d5503a6e30900
+  - enabled: 1
+    path: Assets/Scenes/Stage05.unity
+    guid: 6582b89bc76596943861011aa5be9ce6
+  - enabled: 1
+    path: Assets/Scenes/Stage05-1.unity
+    guid: fb8accad89ebf664f94077de54f4e98a
+  - enabled: 1
+    path: Assets/Scenes/Stage06.unity
+    guid: ab715c830ec182248bcc44812bec49d3
+  - enabled: 1
+    path: Assets/Scenes/Outro.unity
+    guid: 6b3f0949eafa4244fa1f06650b1dc77d
+  - enabled: 1
+    path: Assets/Scenes/Heart01.unity
+    guid: 0e8566555d9f15145aa765136ff79ccc
+  - enabled: 1
+    path: Assets/Scenes/Heart02.unity
+    guid: e46377a290f56b9469880685ead27475
+  - enabled: 1
+    path: Assets/Scenes/Heart03.unity
+    guid: d7e54976d2c4c3241929c444e44dc8c7
+  - enabled: 1
+    path: Assets/Scenes/Heart04.unity
+    guid: 70edba79acb31fc41a5480068c7ea4e7
+  - enabled: 1
+    path: Assets/Scenes/Heart05.unity
+    guid: 79e06c3846eb9004aac9dd045217de76
+  - enabled: 1
+    path: Assets/Scenes/Heart06.unity
+    guid: 2b98b133461ce2940bc1c0af2116b9de
+  - enabled: 1
+    path: Assets/Scenes/Heart07.unity
+    guid: 534de209aac2c194494fd77547766854
+  - enabled: 1
+    path: Assets/Scenes/Heart08.unity
+    guid: cc5e4bfc8201e744cb15a85860a3204b
+  - enabled: 1
+    path: Assets/Scenes/Heart09.unity
+    guid: 112f59dd0f10a6944823fac9ae5b9692
+  - enabled: 1
+    path: Assets/Scenes/Heart10.unity
+    guid: c81ae5a54b2c3874dbcefe91d6cf5727
+  - enabled: 1
+    path: Assets/Scenes/Cover2.unity
+    guid: 1a7cb1f7c00edf04cbc869094716ed8b
+  - enabled: 1
+    path: Assets/Scenes/EndingCredit.unity
+    guid: 59bc8b917fdf7e34eb6b21d273553576
+  m_configObjects: {}
